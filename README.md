@@ -1,26 +1,20 @@
-<div align="center">
-
 # Hey, I'm Charles Sundi Ekema 👋
 
-**Senior Full-Stack Mobile & Web Developer**
-
-Building fast, reliable products for web and mobile, even when the network isn't.
+### Senior Full-Stack Mobile & Web Developer
 
 📍 Douala, Cameroon &nbsp;·&nbsp; 🗣️ English & French
 
-<br />
-
-<a href="mailto:charlessundi2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/sundicode22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-</div>
+<a href="mailto:charlessundi2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /></a>
+<a href="https://github.com/sundicode22"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>
 
 <br />
 
-## ✨ About
+## ✨ About Me
 
-Full-stack developer with 4 years of experience shipping web and mobile products. I enjoy owning a feature end to end, from the data model to the UI.
+I'm a full-stack developer with **4 years of experience** designing and shipping web and mobile products that people actually rely on. I like owning a feature end to end, from the data model to the UI, and I care about software that stays fast and dependable even on unstable connections.
+
+Day to day I work across **React, React Native, Node.js and NestJS**, and I'm making **Go** my primary backend language. I've built microservices-based backends, secure REST APIs, and local-first apps that sync when the network comes back, backed by CI/CD pipelines that make releases quicker and safer. I also mentor junior developers on API design, component architecture, and code review.
 
 - 🚀 Moving core backend services to **Go**
 - 📡 Designing **local-first, offline-syncing** apps
@@ -33,43 +27,29 @@ Full-stack developer with 4 years of experience shipping web and mobile products
 
 **Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=go,ts,js,py,java,dart,html,css,bash&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=go,ts,js,py,java,dart,html,css,bash&theme=dark" />
 
 **Front-End**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,redux,tailwind,bootstrap,sass,vite&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,redux,tailwind,bootstrap,sass,vite&theme=dark" />
 
 **Back-End**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=go,nodejs,express,fastify,nestjs,prisma&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=go,nodejs,express,fastify,nestjs,prisma&theme=dark" />
 
 **Mobile**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,firebase&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,flutter,dart,firebase&theme=dark" />
 
 **Databases**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase&theme=dark" />
 
 **DevOps & Tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,git,github,nginx,linux,postman,figma,vscode&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,git,github,nginx,linux,postman,figma,vscode&theme=dark" />
 
 <br />
-
-
 
 ## 📬 Let's Connect
 
@@ -77,8 +57,4 @@ Open to interesting projects, collaborations, and conversations about Go, offlin
 
 **charlessundi2003@gmail.com**
 
-<div align="center">
-
 <sub>Thanks for stopping by ⭐</sub>
-
-</div>
