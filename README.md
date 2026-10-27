@@ -34,7 +34,7 @@ Full-stack developer with 4 years of experience shipping web and mobile products
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,ts,js,py,php,java,dart,html,css,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,ts,js,py,java,dart,html,css,bash&theme=dark" />
 </p>
 
 **Front-End**
@@ -46,7 +46,7 @@ Full-stack developer with 4 years of experience shipping web and mobile products
 **Back-End**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,nodejs,express,fastify,nestjs,graphql,prisma,wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,fastify,nestjs,prisma&theme=dark" />
 </p>
 
 **Mobile**
@@ -69,13 +69,7 @@ Full-stack developer with 4 years of experience shipping web and mobile products
 
 <br />
 
-## 📈 Contributions
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/2ea44f/sundicode22" alt="Charles's GitHub contribution graph" width="100%" />
-</p>
-
-<br />
 
 ## 📬 Let's Connect
 
