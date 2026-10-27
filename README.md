@@ -14,12 +14,13 @@
 
 I'm a full-stack developer with **4 years of experience** designing and shipping web and mobile products that people actually rely on. I like owning a feature end to end, from the data model to the UI, and I care about software that stays fast and dependable even on unstable connections.
 
-Day to day I work across **React, React Native, Node.js and NestJS**, and I'm making **Go** my primary backend language. I've built microservices-based backends, secure REST APIs, and local-first apps that sync when the network comes back, backed by CI/CD pipelines that make releases quicker and safer. I also mentor junior developers on API design, component architecture, and code review.
+Day to day I work across **React, React Native, Node.js and NestJS**. I've built microservices-based backends, secure REST APIs, and local-first apps that sync when the network comes back, backed by CI/CD pipelines that make releases quicker and safer. I also mentor junior developers on API design, component architecture, and code review.
 
-- 🚀 Moving core backend services to **Go**
+I'm always learning, and right now I'm picking up **Go** and **Spring Boot** for backend work.
+
 - 📡 Designing **local-first, offline-syncing** apps
 - 🧱 Building **microservices** and secure **REST APIs**
-- 🌱 Currently learning **Svelte** and **TanStack Start**
+- 🌱 Currently learning **Go**, **Spring Boot**, **Svelte** and **TanStack Start**
 
 <br />
 
@@ -27,15 +28,15 @@ Day to day I work across **React, React Native, Node.js and NestJS**, and I'm ma
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=go,ts,js,py,java,dart,html,css,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,dart,html,css,bash&theme=dark" />
 
 **Front-End**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,redux,tailwind,bootstrap,sass,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,bootstrap,sass,vite&theme=dark" />
 
 **Back-End**
 
-<img src="https://skillicons.dev/icons?i=go,nodejs,express,fastify,nestjs,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,nestjs,prisma&theme=dark" />
 
 **Mobile**
 
@@ -49,11 +50,15 @@ Day to day I work across **React, React Native, Node.js and NestJS**, and I'm ma
 
 <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,git,github,nginx,linux,postman,figma,vscode&theme=dark" />
 
+**Currently Learning 🌱**
+
+<img src="https://skillicons.dev/icons?i=go,spring,svelte&theme=dark" />
+
 <br />
 
 ## 📬 Let's Connect
 
-Open to interesting projects, collaborations, and conversations about Go, offline-first design, and mobile development.
+Open to interesting projects, collaborations, and conversations about backend development, offline-first design, and mobile development.
 
 **charlessundi2003@gmail.com**
 
